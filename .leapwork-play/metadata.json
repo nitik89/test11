@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-16T09:45:36.883Z",
+  "repo": {
+    "connectorId": 26,
+    "repoSlug": "nitik89/test11",
+    "baseBranch": "test/feature-w"
+  },
+  "team": {
+    "assetId": 556,
+    "displayId": "TM-1",
+    "name": "Version check"
+  },
+  "tree": [
+    {
+      "assetId": 557,
+      "displayId": "TC-1",
+      "name": "New test case",
+      "kind": "test-case",
+      "repoPath": "TC-1-New-test-case.spec.ts"
+    }
+  ],
+  "files": [
+    {
+      "assetId": 557,
+      "assetKind": "test-case",
+      "displayId": "TC-1",
+      "name": "New test case",
+      "repoPath": "TC-1-New-test-case.spec.ts",
+      "parentAssetId": 556
+    }
+  ]
+}
